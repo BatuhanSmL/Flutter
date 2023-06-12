@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\connectivity_plus\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\laz_b\\Projects\\AWish\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\laz_b\\.gradle\\caches\\transforms-3\\320d2f10c6d2e58bab5ff2d7579ec0c4\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35604273231",
+    "project_id": "awish-65b44",
+    "storage_bucket": "awish-65b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35604273231:android:ea87f2b48f229284bf723a",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35604273231-5p5vd57s2aqmojqvok3f0fsvvhen6epr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkriZqHlLa_HwojxaAdz8PNKaa78xm0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35604273231-5p5vd57s2aqmojqvok3f0fsvvhen6epr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
